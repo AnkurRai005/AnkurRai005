@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkurRai005
-- 👀 I’m interested in learn and code
+- 👀 I’m interested in learning, coding and travelling
 - 🌱 I’m currently learning python & Data Science
 - 💞️ I’m looking to collaborate on any exciting project
 - 📫 Reach me at: aadarsh9196@gmail.com
